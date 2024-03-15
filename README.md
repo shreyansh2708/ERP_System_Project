@@ -6,9 +6,12 @@ Welcome to our React ERP System! This system provides a comprehensive solution f
 ## Features
 ## 1. DashBoard
 The system efficiently manages orders and products, with a total no. of orders and total no. of products recorded. Additionally, I added chart templates that you can use to visualize data.
+
 ![Screenshot 2024-03-15 154137](https://github.com/shreyansh2708/ERP_System_Project/assets/138323242/c7797655-032e-4b38-b97e-4b4bcebc6c0b)
 ## 2. Products Management
 It provides a list of product with add, delete, update functionalities of new or existing data.
+
+![Screenshot 2024-03-15 154210](https://github.com/shreyansh2708/ERP_System_Project/assets/138323242/f00151b8-f5fa-4cbf-b087-25010ef35dc6)
 ## 3. Orders Management
 It provides a list of order with the status, which can be updated by the user and also have delete and veiwing functionality of the respective order.
 ## 4. Orders Calender
