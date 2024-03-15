@@ -2,6 +2,7 @@
 Welcome to our React ERP System! This system provides a comprehensive solution for managing your business operations efficiently. Here's an overview of its key features:
 
 ## Live Demo: https://erp-system-management.netlify.app/
+## Hands-on Video Demo: https://github.com/shreyansh2708/ERP_System_Project/assets/138323242/1537fdb8-4bb2-4659-a80d-81f5da715b62
 
 ## Features
 ## 1. DashBoard
