@@ -14,10 +14,15 @@ It provides a list of product with add, delete, update functionalities of new or
 ![Screenshot 2024-03-15 154210](https://github.com/shreyansh2708/ERP_System_Project/assets/138323242/f00151b8-f5fa-4cbf-b087-25010ef35dc6)
 ## 3. Orders Management
 It provides a list of order with the status, which can be updated by the user and also have delete and veiwing functionality of the respective order.
+
+![Screenshot 2024-03-15 154223](https://github.com/shreyansh2708/ERP_System_Project/assets/138323242/09d8eb81-8e76-4c4d-b9e9-a4fe3a4726f8)
+![Screenshot 2024-03-15 154235](https://github.com/shreyansh2708/ERP_System_Project/assets/138323242/21da9e89-3d5b-4205-bb4b-28f3fcba1621)
 ## 4. Orders Calender
 It provides a calender view that displays orders on their expected delivery dates. And has an ability to click on a date to view all orders due for delivery that day.
-## 5 .
-It is responsive & designed suitable for both desktop and mobile devices.
+
+![Screenshot 2024-03-15 154243](https://github.com/shreyansh2708/ERP_System_Project/assets/138323242/807b33d5-b1d8-4501-ae79-ba926c2a4aea)
+![Screenshot 2024-03-15 154251](https://github.com/shreyansh2708/ERP_System_Project/assets/138323242/a558405c-f093-41a6-af53-60646795d3d4)
+## 5 .It is responsive & designed suitable for both desktop and mobile devices.
 
 ## Installation
 To get started with our React ERP System, follow these steps:
