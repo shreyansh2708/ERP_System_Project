@@ -23,7 +23,7 @@ It provides a calender view that displays orders on their expected delivery date
 
 ![Screenshot 2024-03-15 154243](https://github.com/shreyansh2708/ERP_System_Project/assets/138323242/807b33d5-b1d8-4501-ae79-ba926c2a4aea)
 ![Screenshot 2024-03-15 154251](https://github.com/shreyansh2708/ERP_System_Project/assets/138323242/a558405c-f093-41a6-af53-60646795d3d4)
-## 5 .It is responsive & designed suitable for both desktop and mobile devices.
+## 5 .It is responsive & designed for both desktop and mobile devices.
 
 ## Installation
 To get started with our React ERP System, follow these steps:
