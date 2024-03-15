@@ -1,0 +1,97 @@
+.top-block {
+    margin-left: 300px;
+    padding-top: 90px;
+}
+.order-container{
+    overflow-x: auto;
+    overflow-y: auto;
+    z-index: -1;
+    max-height: 450px;
+}
+
+.heading{
+    margin-left: 25px;
+}
+
+.order-table{
+    background-color: #fff;
+    border-collapse: collapse;
+    box-shadow: 0px 10px 10px #ccc;
+    border-radius: 12px;
+    margin: auto;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+
+.order-table thead{
+    background-color: #ccc;
+    color: #222;
+    font-weight:bolder ;
+}
+
+.order-table th, table, td{
+    padding: .8rem;
+}
+
+.order-table td{
+    border-top: .5px solid #ddd;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.order-table tbody tr:hover{
+    background-color: #f1faee;
+}
+
+
+.status {
+    width: 100px; 
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    background-color: #fff;
+    color: #333;
+}
+  
+.status:focus {
+    outline: none;
+    border-color: #007bff; 
+}
+
+.order-container button{
+    font-size: 16px;
+    margin: 2px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 4px 2px;
+    padding: 3px;
+    border: none;
+    color: white;
+    text-align: center;
+}
+
+.view-btn{
+    background-color: #2b9348;
+    color: #fff;
+}
+
+.view-btn:hover{
+    background-color: #80b918;
+}
+
+.del-btn{
+    background-color: #d00000;
+    color: #fff;
+}
+
+.del-btn:hover{
+    background-color: #9d0208;
+}
+
+@media screen and (max-width: 800px) {
+    .top-block {
+        margin-left: 10px;
+    }
+}
+  

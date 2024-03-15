@@ -1,0 +1,99 @@
+.top{
+    margin-left: 300px;
+    padding-top: 90px;
+}
+
+.total{
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.dash-icons{
+    font-size: 24px;
+}
+
+.card-container{
+    display: flex;
+    justify-content: left;
+}
+
+.card{
+    margin: 20px;
+    width: 276px;
+    height: 150px;
+    color: #fff;
+    background-color: #11374f;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .3);
+    text-align: left;
+    padding-left: 20px;
+}
+
+.card-inner{
+    margin-top: 10px;
+}
+
+.dash{
+    margin-left: 25px;
+}
+
+.charts-container{
+    display: flex;
+    justify-content: left;
+    flex-direction: row;
+    z-index: -1;
+}
+
+.chart {
+    width: 400px;
+    height: 250px;
+    border: 1px solid #ccc; 
+    border-radius: 8px; 
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+    margin: 20px; 
+}
+
+.dash-num{
+    margin: 0;
+    font-size: 3rem;
+}
+
+@media screen and (max-width: 800px) {
+    .top{
+        margin-left: 10px;
+    }
+    .charts-container{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        z-index: -1;
+    }
+    .chart {
+        width: 400px;
+        height: 250px;      
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .total{
+        font-weight: lighter;
+        font-size: small;
+    } 
+}
+
+@media screen and (min-width: 800px) and (max-width: 1000px){
+    .charts-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        z-index: -1;
+    }
+}
+
+@media screen and (max-width: 440px){
+    .chart {
+        width: 330px;
+        height: 250px;
+    }
+}
