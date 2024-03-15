@@ -28,7 +28,7 @@ It provides a calender view that displays orders on their expected delivery date
 ## Installation
 To get started with our React ERP System, follow these steps:
 ## 1. Clone this repository to your local machine:
-#### `https://github.com/shreyansh2708/ERP_System_Project.git`
+#### `git clone https://github.com/shreyansh2708/ERP_System_Project.git`
 ## 2. Navigate to the project directory:
 #### `cd erp`
 ## 3. Install dependencies using npm:
